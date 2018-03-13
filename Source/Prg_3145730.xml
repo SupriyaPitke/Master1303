@@ -27,7 +27,7 @@
           <Offline val="N"/>
           <FormType val="N"/>
           <DotNetObjectExists val="N"/>
-          <LastModified _date="736766" _time="51787" date="13/03/2018" time="14:23:07"/>
+          <LastModified _date="736766" _time="54812" date="13/03/2018" time="15:13:32"/>
         </Header>
         <ItemIsn val="4"/>
         <Resource>
@@ -52,9 +52,9 @@
             <Column id="3145730" name="b">
               <PropertyList model="FIELD">
                 <Model attr_obj="FIELD_ALPHA" id="1"/>
-                <Picture id="157" valUnicode="11"/>
+                <Picture id="157" valUnicode="22"/>
                 <StoredAs id="173" val="1"/>
-                <Size id="174" val="11"/>
+                <Size id="174" val="22"/>
                 <_Flip id="194"/>
               </PropertyList>
             </Column>
@@ -216,7 +216,6 @@
         <TaskForms>
           <FormEntry _last_isn="8" _last_test_id="8" id="1">
             <PropertyList model="FORM_GUI0">
-              <Model id="1"/>
               <_Comment id="218"/>
               <FormName id="311" valUnicode="Test"/>
             </PropertyList>
@@ -229,6 +228,7 @@
                 <Height id="24" val="9"/>
                 <Style id="63" val="7"/>
                 <EnableRTF id="69"/>
+                <_Orientation id="143"/>
               </PropertyList>
             </Control>
             <Control _test_id="1" id="3145729">
@@ -242,6 +242,7 @@
                 <Height id="24" val="10"/>
                 <Data FieldID="3145729" id="43"/>
                 <ControlName id="46" val="f1"/>
+                <_Orientation id="143"/>
                 <TabOrder id="314" val="1"/>
               </PropertyList>
             </Control>
@@ -254,6 +255,7 @@
                 <Height id="24" val="9"/>
                 <Style id="63" val="7"/>
                 <EnableRTF id="69"/>
+                <_Orientation id="143"/>
               </PropertyList>
             </Control>
             <Control _test_id="2" id="3145730">
@@ -267,6 +269,7 @@
                 <Height id="24" val="10"/>
                 <Data FieldID="3145730" id="43"/>
                 <ControlName id="46" val="f2"/>
+                <_Orientation id="143"/>
                 <TabOrder id="314" val="2"/>
               </PropertyList>
             </Control>
@@ -279,6 +282,7 @@
                 <Height id="24" val="9"/>
                 <Style id="63" val="7"/>
                 <EnableRTF id="69"/>
+                <_Orientation id="143"/>
               </PropertyList>
             </Control>
             <Control _test_id="3" id="3145731">
@@ -292,6 +296,7 @@
                 <Height id="24" val="10"/>
                 <Data FieldID="3145731" id="43"/>
                 <ControlName id="46" val="a"/>
+                <_Orientation id="143"/>
                 <TabOrder id="314" val="3"/>
               </PropertyList>
             </Control>
@@ -304,6 +309,7 @@
                 <Height id="24" val="9"/>
                 <Style id="63" val="7"/>
                 <EnableRTF id="69"/>
+                <_Orientation id="143"/>
               </PropertyList>
             </Control>
             <Control _test_id="4" id="3145732">
@@ -317,6 +323,7 @@
                 <Height id="24" val="10"/>
                 <Data FieldID="3145732" id="43"/>
                 <ControlName id="46" val="b"/>
+                <_Orientation id="143"/>
                 <TabOrder id="314" val="4"/>
               </PropertyList>
             </Control>
